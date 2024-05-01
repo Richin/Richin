@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Node and Angular Application on Ubuntu 16.04](https://medium.com/@richinvarghese/how-to-deploy-node-and-angular-application-on-ubuntu-16-04-f5dcc48427fe?source=rss-b82bbfa12b2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
